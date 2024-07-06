@@ -8,6 +8,7 @@ Objective:
 Create a comprehensive dashboard for credit card operations, providing real-time insights and key performance metrics for stakeholders.
 
 Tools Used:
+
 > MySQL
 > Microsoft Excel
 > Microsoft Power BI
@@ -15,7 +16,9 @@ Tools Used:
 Key Components:
 
 > 📊 Dashboard Creation: Designed an intuitive layout with interactive visualizations and filtering capabilities.
+
 > 🔍 Data Analysis: Leveraged transaction and customer data from a SQL database to analyze key performance metrics.
+
 > 📈 Actionable Insights: Shared valuable findings to support decision-making processes.
 
 Skills Acquired:
@@ -26,6 +29,7 @@ Chart Visualization: Designed charts to convey complex information effectively.
 Business Problem Solving: Proposed solutions to identified pain points.
 
 Process:
+
 📥 Import Data: Loaded data into MySQL server.
 🔗 Connect Power BI: Linked Power BI to the database.
 🧹 Data Cleaning: Ensured data accuracy and consistency.
